@@ -1,0 +1,6 @@
+C:\Users\tmace\Documents\csis2530\classLabs\DemoListDictionary\DemoListDictionary\bin\Debug\DemoListDictionary.exe.config
+C:\Users\tmace\Documents\csis2530\classLabs\DemoListDictionary\DemoListDictionary\bin\Debug\DemoListDictionary.exe
+C:\Users\tmace\Documents\csis2530\classLabs\DemoListDictionary\DemoListDictionary\bin\Debug\DemoListDictionary.pdb
+C:\Users\tmace\Documents\csis2530\classLabs\DemoListDictionary\DemoListDictionary\obj\Debug\DemoListDictionary.csprojResolveAssemblyReference.cache
+C:\Users\tmace\Documents\csis2530\classLabs\DemoListDictionary\DemoListDictionary\obj\Debug\DemoListDictionary.exe
+C:\Users\tmace\Documents\csis2530\classLabs\DemoListDictionary\DemoListDictionary\obj\Debug\DemoListDictionary.pdb
